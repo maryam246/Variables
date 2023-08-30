@@ -1,5 +1,5 @@
 # Variables
-#declering variables
+#declering variables<br>
 age = 15 #integer : number without decimal point
 
 name = "Mala" #string : Ordered sequences of characters, enclosed in single or double quotes.
